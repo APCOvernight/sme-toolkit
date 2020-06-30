@@ -1,7 +1,7 @@
 ---
 title: "About PinPoint API (PPAPI)"
 permalink: /docs/about-ppapi/
-excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
+excerpt: "Getting started with PinPoint API."
 last_modified_at: 2020-06-30
 redirect_from:
   - /theme-setup/
@@ -21,7 +21,7 @@ __To complete this walk-through you will need :__
 
 Method 
 
-- Open a browser to https://pinpoint.apc-overnight.com 
+- Open a browser to [https://pinpoint.apc-overnight.com](https://pinpoint.apc-overnight.com)
 - Click on the Authorize button
 - Enter your client ID / Secret ID
 - Click Authorize button
