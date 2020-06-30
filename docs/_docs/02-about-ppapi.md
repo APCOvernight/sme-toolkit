@@ -47,7 +47,7 @@ Insomnia is a desktop tool for testing REST and other API's.  To make testing Pi
 - [Download Insomnia](https://insomnia.rest/download/core/?) and install using your desktop operating system installation procedure.  Insomnia is available for Windows, Macintosh and Linux.
 - This button should download and install the workspace.
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=PinPointAPI&uri=https%3A%2F%2Fgithub.com%2FAPCOvernight%2Fsme-toolkit%2Fblob%2Fmaster%2Fservices%2FPinPointAPI%2FInsomnia%2FPinPointAPI.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](insomnia://app/import?uri=https://github.com/APCOvernight/sme-toolkit/blob/master/services/PinPointAPI/Insomnia/PinPointAPI.json)
 
 Clicking on the appropriate GetPinpoint will allow the method to be called.
 
