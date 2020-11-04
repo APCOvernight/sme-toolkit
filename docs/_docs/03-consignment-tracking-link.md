@@ -1,6 +1,6 @@
 ---
 title: "Consignment Tracking - Direct URL Link"
-permalink: /docs/about-ppapi/
+permalink: /docs/tracking-direct-link/
 excerpt: "Providing a simple link to your customer allowing an APC Consignment to be tracked."
 last_modified_at: 2020-11-04
 redirect_from:
