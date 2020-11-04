@@ -34,7 +34,7 @@ main:
 
 # documentation links
 docs:
-  - title: Getting Started
+  - title: "Getting Started"
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
@@ -42,7 +42,7 @@ docs:
     children:
       - title: "About"
         url: /docs/about-ppapi/
-  - title: Easy Integration Options
+  - title: "Easy Integration Options"
     children:
       - title: "Direct Tracking Links"
         url: /docs/tracking-direct-link/
