@@ -44,8 +44,8 @@ docs:
         url: /docs/about-ppapi/
   - title: Easy Integration Options
     children:
-      -title: "Direct Tracking Links"
-      url: /docs/tracking-direct-link/
+      - title: "Direct Tracking Links"
+        url: /docs/tracking-direct-link/
  
 
 # sidebar navigation list sample
